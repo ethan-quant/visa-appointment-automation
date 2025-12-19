@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\Ethan\Desktop\AI VIsa Kenya Bot 1.0\AI_VISA_BOT_KENYA.py", line 323, in <module>
-    main()
-    ~~~~^^
-  File "C:\Users\Ethan\Desktop\AI VIsa Kenya Bot 1.0\AI_VISA_BOT_KENYA.py", line 264, in main
-    raise RuntimeError("Missing EMAIL/PASSWORD in .env")
-RuntimeError: Missing EMAIL/PASSWORD in .env
