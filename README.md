@@ -4,6 +4,16 @@ Portfolio / educational version of two country-specific Python automation tools 
 
 > **Safety note:** The default configuration is **DRY_RUN** (demo mode). This repository is intended for educational purposes and process-automation demonstration. Always follow the terms of service and applicable laws for any website you interact with.
 
+## Background
+International student-athletes often face significant delays in securing U.S. visa
+appointments due to limited availability and highly dynamic scheduling systems.
+Missed appointment windows can directly impact enrollment timelines and athletic
+eligibility.
+
+This project was developed to explore how automation and monitoring systems can
+help surface time-sensitive opportunities in constrained environments while
+minimizing risk and unintended actions.
+
 ## Repo structure
 
 - `kenya/` – Kenya-specific workflow implementation
